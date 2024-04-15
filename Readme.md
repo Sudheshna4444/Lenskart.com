@@ -1,19 +1,10 @@
 # Welcome to OPTICKART
-<h3>Optickart is a leading e-commerce company that maintains an online optical store packed with both classic and trendy eyeglasses, lenses and more at affordable prices. These glasses can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from Masai School in the Construct Week With the 5 team members within 5 Days.
+<h3>Optickart is a leading e-commerce company that maintains an online optical store packed with both classic and trendy eyeglasses, lenses and more at affordable prices. These glasses can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from  VIT School in the course of Software Engineering .
 </h3>
 
 # Deployed URL 👉 [Click here](https://fascinating-cajeta-e3c16d.netlify.app/)
 
-## Our Team Members
-- Jagriti Kumari (My Linkedin profile :-https://www.linkedin.com/in/jkumari25/)
 
-- Prakash Chandra Jena (My Linkedin profile :- https://www.linkedin.com/in/prakash-chandra-jena-95388a22b/)
-
-- Safwan Faiz (My Linkedin profile :- https://www.linkedin.com/in/safwan-faiz-0343a6184/)
-
-- Shivam Gote (My Linkedin profile :- https://www.linkedin.com/in/shivam-gote/)
-
-- Rishi Raj (My Linkedin profile :- https://www.linkedin.com/in/rishi-raj-bhardwaj/)
 <br/>
 
 
@@ -98,7 +89,6 @@ On this journey we faced many issues, but we keep motivated each other with pati
 
 - We also got a glimpse of using GitHub for the version control.
 
-Source Code(GitHub link):- https://github.com/jkumari25/Lenskart.com
 
 ## Show your support
 
